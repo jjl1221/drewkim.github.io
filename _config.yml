@@ -15,7 +15,9 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-remote_theme             : "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme
+remote_theme: benbalter/retlab
 locale                   : "en-US"
 title                    : "Data Science"
 title_separator          : "-"
