@@ -1094,7 +1094,7 @@ plt.show()
 ```
 
 
-![png](output_26_0.png)
+![png](/images/CardDefault_files/output_26_0.png)
 
 
 Since the target value unbalance is acceptable, we will go as it is. 
@@ -1115,7 +1115,7 @@ plt.show()
 ```
 
 
-![png](output_30_0.png)
+![png](/images/CardDefault_files/output_30_0.png)
 
 
 
@@ -1134,7 +1134,7 @@ plt.show()
 ```
 
 
-![png](output_31_0.png)
+![png](/images/CardDefault_files/output_31_0.png)
 
 
 ## 2) Client Information (Gender, Marriage, Education, Age)
@@ -1168,7 +1168,7 @@ plt.show()
 ```
 
 
-![png](output_34_0.png)
+![png](/images/CardDefault_files/output_34_0.png)
 
 
 
@@ -1201,11 +1201,11 @@ plt.show()
 ```
 
 
-![png](output_35_0.png)
+![png](/images/CardDefault_files/output_35_0.png)
 
 
 
-![png](output_35_1.png)
+![png](/images/CardDefault_files/output_35_1.png)
 
 
 
@@ -1218,7 +1218,7 @@ plt.show()
 ```
 
 
-![png](output_36_0.png)
+![png](/images/CardDefault_files/output_36_0.png)
 
 
 #### In the education, 4,5,6 can be categorized as single value 4.
@@ -1253,7 +1253,7 @@ plt.show()
 ```
 
 
-![png](output_39_0.png)
+![png](/images/CardDefault_files/output_39_0.png)
 
 
 ## 3) Repayment Status
@@ -1288,7 +1288,7 @@ plt.show()
 ```
 
 
-![png](output_41_0.png)
+![png](/images/CardDefault_files/output_41_0.png)
 
 
 The Pay data should only contain data from range -1 to 8, but -2 appears on the dataset.
@@ -1326,7 +1326,7 @@ plt.show()
 ```
 
 
-![png](output_44_0.png)
+![png](/images/CardDefault_files/output_44_0.png)
 
 
 
@@ -1359,7 +1359,7 @@ plt.show()
 ```
 
 
-![png](output_45_0.png)
+![png](/images/CardDefault_files/output_45_0.png)
 
 
 ## 4) Amount of Bill Statement
@@ -1643,7 +1643,7 @@ plt.show()
 ```
 
 
-![png](output_48_0.png)
+![png](/images/CardDefault_files/output_48_0.png)
 
 
 Negative Number shouldn't appear on bill amount.   
@@ -1669,7 +1669,7 @@ plt.show()
 ```
 
 
-![png](output_51_0.png)
+![png](/images/CardDefault_files/output_51_0.png)
 
 
 # 3. Feature Engineering
@@ -1711,7 +1711,7 @@ sns.countplot(data = df, x = 'prior' )
 
 
 
-![png](output_56_1.png)
+![png](/images/CardDefault_files/output_56_1.png)
 
 
 ### New Variable : Gender, Marriage Combination
@@ -1802,7 +1802,7 @@ sns.countplot(data = df, x = 'Comb' )
 
 
 
-![png](output_60_1.png)
+![png](/images/CardDefault_files/output_60_1.png)
 
 
 ### Renewed Variable : Age Distribution
@@ -1831,7 +1831,7 @@ sns.countplot(data = df, x = 'Age_dist')
 
 
 
-![png](output_63_1.png)
+![png](/images/CardDefault_files/output_63_1.png)
 
 
 
