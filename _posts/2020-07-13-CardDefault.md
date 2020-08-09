@@ -1,3 +1,13 @@
+---
+title: "Credit Card Default"
+date: 2020-07-13 08:00:30 -0400
+classes: wide
+toc: true
+categories: DataScience
+---
+
+
+
 # Introduction
 
 ## Dataset
